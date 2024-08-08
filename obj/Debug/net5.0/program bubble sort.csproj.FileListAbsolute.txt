@@ -1,0 +1,5 @@
+C:\Users\kalvi\Documents\program bubble sort\obj\Debug\net5.0\program bubble sort.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\program bubble sort\obj\Debug\net5.0\program bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\program bubble sort\obj\Debug\net5.0\program bubble sort.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\program bubble sort\obj\Debug\net5.0\program bubble sort.AssemblyInfo.cs
+C:\Users\kalvi\Documents\program bubble sort\obj\Debug\net5.0\program bubble sort.csproj.CoreCompileInputs.cache
